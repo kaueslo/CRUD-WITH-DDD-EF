@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a48ef8f2-b0a4-43e0-98de-12d6f97ea042": {
+      "ProjectGuid": "a48ef8f2-b0a4-43e0-98de-12d6f97ea042",
+      "DisplayName": "ExemploAtualizadoEF",
+      "ColorIndex": 0
+    },
+    "77570389-858a-4726-9e6c-9bb6f565c396": {
+      "ProjectGuid": "77570389-858a-4726-9e6c-9bb6f565c396",
+      "DisplayName": "Repositorio",
+      "ColorIndex": 1
+    },
+    "3a7c0117-692e-4253-b506-3ac61cb79413": {
+      "ProjectGuid": "3a7c0117-692e-4253-b506-3ac61cb79413",
+      "DisplayName": "Repositorio",
+      "ColorIndex": 2
+    },
+    "02cb2ad3-6daf-4099-bea2-9ee481dd9a70": {
+      "ProjectGuid": "02cb2ad3-6daf-4099-bea2-9ee481dd9a70",
+      "DisplayName": "Domain",
+      "ColorIndex": 3
+    },
+    "7ea156e4-26a4-4820-82c9-61112ed2bcf7": {
+      "ProjectGuid": "7ea156e4-26a4-4820-82c9-61112ed2bcf7",
+      "DisplayName": "Servico",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
